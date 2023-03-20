@@ -1,2 +1,2 @@
 
-![Ridge regression](./README.assets/Ridge regression.JPG)
+![Ridge regression](./README.assets/Ridge_regression.JPG)
