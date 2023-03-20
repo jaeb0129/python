@@ -48,10 +48,11 @@
 
 # Lasso
 
+## cross validation
 Ridge regression 모형의 hyperparameter인 $\alpha$의 최적값을 선택하려면 cross-validation을 이용한다.
 RidgeCV는 지정된 여러 $\alpha$ 중에서 최적의 것을 CV로 찾아주는 일을 함.
 
-Lasso 역시 진행
+LassoCV 역시 진행
 
 ## GridSearchCV란 머신러닝에서 모델의 성능향상을 위해 쓰이는 기법.
 사용자가 직접 모델의 하이퍼 파라미터의 값을 리스트로 입력하면 값에 대한 경우의 수마다 예측 성능을 측정 평가하여 비교하면서 최적의 하이퍼 파라미터 값을 찾는 과정을 진행 
