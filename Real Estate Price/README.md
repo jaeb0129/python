@@ -43,7 +43,7 @@
 대표적인 shrinkage 방법에는 ridge regression과 lasso가 있음
 
 # Ridge regression
-![Ridge_regression](README.assets/Ridge_regression.JPG)
+![1](README.assets/Ridge_regression.JPG)
 ### 출처: https://modern-manual.tistory.com/21
 
 # Lasso
