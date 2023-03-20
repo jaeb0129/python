@@ -44,6 +44,7 @@
 
 # Ridge regression
 ![Ridge_regression](README.assets/Ridge_regression.JPG)
+![Ridge_regression](README.assets/RG2.JPG)
 ### 출처: https://modern-manual.tistory.com/21
 
 # Lasso
