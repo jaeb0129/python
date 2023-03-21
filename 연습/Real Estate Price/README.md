@@ -42,9 +42,13 @@
 선형 모델(Linear model)의 예측력(accuracy) 혹은 설명력(interpretability)을 높이기 위해 여러 정규화(regularization) 방법들을 사용
 대표적인 shrinkage 방법에는 ridge regression과 lasso가 있음
 
+![Regularization1](https://user-images.githubusercontent.com/63768509/226539662-66776568-81dd-455b-83fd-2431b1fa72c3.jpg)
+![Regularization2](https://user-images.githubusercontent.com/63768509/226539716-d67e4923-500f-414b-a1de-efb6e0e3a4b7.jpg)
+#### 출처: https://sanghyu.tistory.com/13
+
 # Ridge regression
 ![Ridge_regression](https://user-images.githubusercontent.com/63768509/226517935-f2a377bd-a4a1-4fa8-b80d-e518ddb85096.jpg)
-### 출처: https://modern-manual.tistory.com/21
+#### 출처: https://modern-manual.tistory.com/21
 
 # Lasso regression
 
