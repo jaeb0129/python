@@ -7,7 +7,7 @@
 | ------------------------------------------------------- | ------------------------------------------------------------ |
 | [1. EDA](#1.-EDA)                                       | 대만 New Taipei시 Sindian 지역에서 수집한 주택 가격 자료             |
 | [2. Linear regression](#2.-Market-Basket-Analysis) |     다중선형회귀모델                 |
-| [3. 모델 성능 향상](#3.-Regression)                         | Ridge, Lasso 회귀 / cross-validation, GridSearchCV |
+| [3. 모델 성능 향상](#3.-Regression)                         | Ridge, Lasso 회귀 / GridSearchCV(Cross Validation) |
 
 <br>
 
