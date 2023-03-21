@@ -46,16 +46,16 @@
 ![Ridge_regression](https://user-images.githubusercontent.com/63768509/226517935-f2a377bd-a4a1-4fa8-b80d-e518ddb85096.jpg)
 ### 출처: https://modern-manual.tistory.com/21
 
-# Lasso
+# Lasso regression
 
 ## cross validation
 Ridge regression 모형의 hyperparameter인 $\alpha$의 최적값을 선택하려면 cross-validation을 이용한다.
-RidgeCV는 지정된 여러 $\alpha$ 중에서 최적의 것을 CV로 찾아주는 일을 함.
+- 평가에 모든 데이터 이용 가능(편중 막음)
+- ex) cv = 10, 10개의 평가 지표(test data를 10 부분으로 나눠 모델의 성능을 평가한 값)를 평균내서 최종적으로 모델의 성능 평가
 
-LassoCV 역시 진행
 
 ## GridSearchCV
-머신러닝에서 모델의 성능향상을 위해 쓰이는 기법.
-사용자가 직접 모델의 하이퍼 파라미터의 값을 리스트로 입력하면 값에 대한 경우의 수마다 예측 성능을 측정 평가하여 비교하면서 최적의 하이퍼 파라미터 값을 찾는 과정을 진행 
+-사용자가 직접 모델의 하이퍼 파라미터의 값을 리스트로 입력하면 값에 대한 경우의 수마다 예측 성능을 측정 평가해 최적의 하이퍼 파라미터 값을 찾는 과정을 진행 
+-예측 성능 평가 시 교차 검증도 진행(CV)
 
 ## GridSearchCV를 이용하여 Lasso에 대한 CV를 실시하고 최적의 Lasso 모형과 최적의 Ridge 모형을 비교
