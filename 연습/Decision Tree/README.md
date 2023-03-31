@@ -22,6 +22,7 @@
 ![엔트로피2](https://user-images.githubusercontent.com/63768509/229152939-3a2b572d-d2e4-497a-937c-666545777f33.jpg)
 
 <br>
+
 - 정보획득
 
 
