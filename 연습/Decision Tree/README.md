@@ -2,7 +2,7 @@
 
 ![decision tree](https://user-images.githubusercontent.com/63768509/229148789-4ff7f53f-107a-4837-b6da-329bfed51eb3.jpg)
 
-- 동그라미: root node, 네모: leaf node
+-원타원: root node, 네모: leaf node
 - 초기 14개의 데이터를  5, 4, 5로 나눔
 
 ## 노드를 어떤 기준으로 나눌까?
