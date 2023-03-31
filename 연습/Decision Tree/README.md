@@ -21,7 +21,7 @@
 
 ![엔트로피2](https://user-images.githubusercontent.com/63768509/229152939-3a2b572d-d2e4-497a-937c-666545777f33.jpg)
 
-
+<br>
 - 정보획득
 ![정보획득량](https://user-images.githubusercontent.com/63768509/229155037-1d9adcb1-8c19-4ea5-a703-7d4ecd30b7d0.jpg)
 
