@@ -50,7 +50,7 @@
 출처: https://m.blog.naver.com/winddori2002/221652285241
 
 # 시각화
-- X_train, y_train 569개 data중 398개(7/10) 7:3으로 train,test 나누고 decision tree 시각화
+- train+test data 569개를 7:3으로 나누고(train=398개) decision tree 시각화
 
 ![graph](https://github.com/jaeb0129/baseball/assets/63768509/f147f82f-25be-47ef-b8bc-a534bef0eb2c)
 
