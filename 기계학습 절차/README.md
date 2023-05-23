@@ -1,4 +1,4 @@
-## ## 기계 학습의 일반적인 절차
+##  기계 학습의 일반적인 절차
 
 1. 훈련 자료와 테스트 자료로 분할: 비율, 난수 초기치
 2. preprocessing: 정규화(normalization), 표준화(standardization) 등등
