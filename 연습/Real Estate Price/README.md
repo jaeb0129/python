@@ -39,8 +39,10 @@
 
 ## 3. 모델 성능 향상
 
-선형 모델(Linear model)의 예측력(accuracy) 혹은 설명력(interpretability)을 높이기 위해 여러 정규화(regularization) 방법들을 사용
-대표적인 shrinkage 방법에는 ridge regression과 lasso가 있음
+- 선형 모델(Linear model)의 예측력(accuracy) 혹은 설명력(interpretability)을 높이기 위해 여러 정규화(regularization) 방법들을 사용
+- 모델 과적합 현상을 방지해 주는 방법 중 하나
+- 과적합된 다중 선형 회귀 모델은 하나의 특이값에도 회귀선의 기울기가 급격하게 변할 수 있다
+- 대표적인 shrinkage 방법에는 ridge regression과 lasso가 있음
 
 ![Regularization1](https://user-images.githubusercontent.com/63768509/226539662-66776568-81dd-455b-83fd-2431b1fa72c3.jpg)
 ![Regularization2](https://user-images.githubusercontent.com/63768509/226539716-d67e4923-500f-414b-a1de-efb6e0e3a4b7.jpg)
