@@ -5,6 +5,8 @@
 – 문제 유형 : 회귀/분류
 – 적합한 데이터 유형 : 아웃라이어가 적은 데이터
 
+![1](https://github.com/jaeb0129/baseball/assets/63768509/1587eeda-9d3f-45ad-9245-af625dca37b2)
+
 - 장점
 
 수식에 대한 설명이 필요 없을 만큼 직관적이고 간단합니다.
@@ -19,3 +21,5 @@
 
 주로 분류(Classification)에서 사용되며, 로지스틱 회귀(Logistic Regression)로 해결할 수 없는 3개 이상의 목표 변수들도 분류할 수 있습니다.
 작은 데이터셋에 적합합니다.
+
+출처: https://goldenrabbit.co.kr/2022/07/14/%ED%99%95%EC%8B%A4%ED%9E%88-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EB%A7%8C%EC%82%AC%EA%B0%80-%ED%8E%B8%ED%95%B4%EC%A7%80%EB%8A%94-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-10%EA%B0%80%EC%A7%80-%EC%95%8C/
