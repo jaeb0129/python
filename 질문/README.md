@@ -67,13 +67,14 @@
 - 배깅: 원 표본에서 중복을 허용하여 표본을 복원 추출하는 방법으로, 학습 데이터 셋을 여러개 만들 수 있고 각 셋은 다르다.
 ![2](https://github.com/jaeb0129/baseball/assets/63768509/47ddf85e-bcec-40a8-a92c-3802f4ff1de3)
 - 부스팅: 전체 훈련 세트에서 랜덤하게 샘플을 추출하고 잘못 분류된 데이터에 가중치를 적용하는 방법. 즉 추출된 데이터로 하나의 트리를 만들고, 이때의 오차를 계산하여 그 오차가 적어지도록 가중치(중요도를 더주어 개선)를 주어 다음 모델을 만들 때 그것을 반영하는 방법. 이렇게 이전에 만들었던 트리의 오차를 개선해 다음 모델을 만들어 투표, 배깅 방법보다는 성능이 비교적 좋다는 특징이 있다.
+- - AdaBoost, Gradeint Boost, xgoost, LightBoost 등 존재
+
 ![3](https://github.com/jaeb0129/baseball/assets/63768509/bda7955b-c6ec-4c77-92ca-f52febd3a950)
 
 - 투표
 
 ![1](https://github.com/jaeb0129/baseball/assets/63768509/ef9c8bb7-e0c4-4089-bdff-95188c0c5472)
 
-- AdaBoost, Gradeint Boost, xgoost, LightBoost 등 존재
 8. Why is OLS the Best Linear Unbiased Estimator and when does it break down?
 
 9. In what context do you prefer MLE?
