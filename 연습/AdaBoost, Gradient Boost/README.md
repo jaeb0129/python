@@ -26,6 +26,9 @@
 - gradient boosting 알고리즘의 단점 보완해주기 위해 나옴
 
 > 과적합 방지 가능한 규제가 포함
+
 > 분류, 회귀가 둘 다 가능
+
 > 조기 종료(Early Stopping) 제공
+
 > 결국 gradient Boost 기반
