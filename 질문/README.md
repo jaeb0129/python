@@ -83,3 +83,5 @@
 OLS와 MLE를 써서 parameter들을 추정하는 경우가 많은데,
 
 둘의 차이를 명확하게 알아야 할 듯.
+
+사진출처: https://bigdaheta.tistory.com/32
