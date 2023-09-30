@@ -49,10 +49,13 @@
 #### 출처: https://sanghyu.tistory.com/13
 
 # Ridge regression
+> 불가피하게 독립 변수들 사이에 높은 상관 관계가 있는 경우라면 리지 회귀가 더 적합한 접근방식이다. 다중 회귀라고도 불리는 리지 회귀는 정규화 또는 규제화(regularization) 기법으로 알려져 있으며 모델의 복잡성을 줄이는 데 사용된다. 또한 ‘리지 회귀 페널티’로 알려진 약간의 편향, 즉 바이어스(bias)를 사용하여 모델이 과대적합(overfitting)에 덜 취약하게 만든다.
 ![Ridge_regression](https://user-images.githubusercontent.com/63768509/226517935-f2a377bd-a4a1-4fa8-b80d-e518ddb85096.jpg)
 #### 출처: https://modern-manual.tistory.com/21
 
 # Lasso regression
+> 라쏘 회귀는 리지 회귀와 같이 모델의 복잡성을 줄여주는 또 다른 정규화 기법이다. 회귀 계수의 절대 사이즈를 금지함으로써 복잡성을 줄인다. 리지 회귀와는 다르게 아예 계수 값을 0에 가깝게 만든다.
+> 그 장점은 기능 선택을 사용할 수 있다는 것이다. 데이터 집합에서 기능 세트를 선택하여 모델을 구축할 수 있다. 라쏘 회귀는 필요한 요소들만 사용하고 나머지를 0으로 설정함으로써 과대적합을 방지할 수 있다.
 
 ## cross validation
 Ridge regression 모형의 hyperparameter인 $\alpha$의 최적값을 선택하려면 cross-validation을 이용한다.
