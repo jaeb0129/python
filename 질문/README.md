@@ -79,6 +79,10 @@
 ![1](https://github.com/jaeb0129/python/assets/63768509/71bcc09d-ea16-4314-bc8b-ea05395ba538)
 
 - 보통 hard voting보다 soft voting이 성능이 좋아 soft voting 더 많이 사용
+- 출처: https://blog.naver.com/fbfbf1/222484365132
+
+- ![2](https://github.com/jaeb0129/python/assets/63768509/df4411f4-f352-4dfa-aebb-f3412dfe1648)
+- 출처: https://tyami.github.io/machine%20learning/ensemble-1-basics/
 
 
 8. Why is OLS the Best Linear Unbiased Estimator and when does it break down?
