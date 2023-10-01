@@ -82,6 +82,7 @@
 - 출처: https://blog.naver.com/fbfbf1/222484365132
 
 ![2](https://github.com/jaeb0129/python/assets/63768509/df4411f4-f352-4dfa-aebb-f3412dfe1648)
+
 - 출처: https://tyami.github.io/machine%20learning/ensemble-1-basics/
 
 
