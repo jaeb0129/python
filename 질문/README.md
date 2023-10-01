@@ -76,6 +76,11 @@
 
 ![1](https://github.com/jaeb0129/baseball/assets/63768509/ef9c8bb7-e0c4-4089-bdff-95188c0c5472)
 
+![1](https://github.com/jaeb0129/python/assets/63768509/71bcc09d-ea16-4314-bc8b-ea05395ba538)
+
+- 보통 hard voting보다 soft voting이 성능이 좋아 soft voting 더 많이 사용
+
+
 8. Why is OLS the Best Linear Unbiased Estimator and when does it break down?
 
 9. In what context do you prefer MLE?
